@@ -5,12 +5,12 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com/ZuSolaris",
+          "url": "https://github/ZuSolaris.com",
           "class": "fab fa-github"
         },
         {
           "name": "linkedin",
-          "url": "https://www.linkedin.com/in/zusolaris/",
+          "url": "https://www.linkedin/zusolaris.com",
           "class": "fab fa-linkedin"
         }
       ],
@@ -29,40 +29,21 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
+          "name": "BootStrap",
+          "class": "devicon-javascript-plain",
+          "level": "70"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "name": "React",
+          "class": "devicon-javascript-plain",
+          "level": "70"
         }
+     
       ]
     }
   }
