@@ -1,3 +1,9 @@
 # Modify this portfolio
 
-Make it your own! 
+Zoe Gonzalez personal portfolio site.
+
+
+
+
+
+URL for Live Site!: https://zugportfolio.netlify.app
