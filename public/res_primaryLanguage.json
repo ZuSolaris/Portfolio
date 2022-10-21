@@ -18,7 +18,7 @@
           "images/portfolio/GoH/p1.PNG",
           "images/portfolio/GoH/p2.PNG"
         ],
-        "url": "",
+        "url": "https://galleryofhornsbyzoeg.netlify.app/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -39,7 +39,7 @@
           "images/portfolio/SnT/p1.PNG",
           "images/portfolio/SnT/p2.PNG"
         ],
-        "url": "https://github.com",
+        "url": "https://group-c-201d90.github.io/awesome-project/",
         "technologies": [
     
           {
@@ -56,7 +56,7 @@
           "images/portfolio/cS/p1.PNG",
           "images/portfolio/cS/p2.PNG"
         ],
-        "url": "https://github.com",
+        "url": "https://zusolaris.github.io/cookie-stand/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -68,37 +68,30 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Student in Software Development",
+        "years": "08.2020 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React, JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "React",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Bootstrap"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "US Navy",
+        "title": "Information Systems Specialist",
+        "years": "01.2019 - 06.2022",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Virtual Machines",
+          "Ubuntu",
+          "Microsoft Exchange",
+          "Active Directory"
         ]
       }
     ]
