@@ -35,12 +35,12 @@
         },
         {
           "name": "BootStrap",
-          "class": "devicon-javascript-plain",
+          "class": "devicon-bootstrap-plain",
           "level": "70"
         },
         {
           "name": "React",
-          "class": "devicon-javascript-plain",
+          "class": "devicon-react-plain",
           "level": "70"
         }
      
